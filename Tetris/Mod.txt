@@ -1,0 +1,4 @@
+-Añadido formas "B", "D", "-"
+-Modificado sentido de la rotación para que sea hacia la derecha
+-Escalado del HUD y la fuente para que encaje con las 10 columnas (200 pixeles)
+-Corregido formas "L", "J", estaban intercambiadas
